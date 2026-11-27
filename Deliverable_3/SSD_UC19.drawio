@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7E2YWptd8iqeshQryT6P">
-    <mxGraphModel dx="977" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
             <mxPoint x="190" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGl7WSLx1FORDeenL-HN-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="for each player" vertex="1">
+        <mxCell id="RGl7WSLx1FORDeenL-HN-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[for each player]" vertex="1">
           <mxGeometry height="30" width="90" x="200" y="280" as="geometry" />
         </mxCell>
         <mxCell id="RGl7WSLx1FORDeenL-HN-15" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
@@ -76,7 +76,7 @@
         <mxCell id="RGl7WSLx1FORDeenL-HN-28" parent="RGl7WSLx1FORDeenL-HN-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="send offer to parents" vertex="1">
           <mxGeometry height="30" width="160" x="260" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="RGl7WSLx1FORDeenL-HN-30" parent="RGl7WSLx1FORDeenL-HN-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[average&amp;gt; threshold and coach doesnt approve]" vertex="1">
+        <mxCell id="RGl7WSLx1FORDeenL-HN-30" parent="RGl7WSLx1FORDeenL-HN-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[average&amp;gt;= threshold and coach doesnt approve]" vertex="1">
           <mxGeometry height="10" width="280" x="150" y="200" as="geometry" />
         </mxCell>
         <mxCell id="RGl7WSLx1FORDeenL-HN-32" parent="RGl7WSLx1FORDeenL-HN-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RejectOffer(PlayerID, Reason)" vertex="1">
