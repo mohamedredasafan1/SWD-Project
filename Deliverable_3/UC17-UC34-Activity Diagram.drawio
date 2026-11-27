@@ -128,7 +128,7 @@
         <mxCell id="-rJ3cvL7pKG5no5CY1da-42" parent="-rJ3cvL7pKG5no5CY1da-3" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Check the player&#39;s age and the travellers listed" vertex="1">
           <mxGeometry height="60" width="147.5" x="76.25" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="-rJ3cvL7pKG5no5CY1da-54" parent="-rJ3cvL7pKG5no5CY1da-3" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Save the request . (Status: Pending )" vertex="1">
+        <mxCell id="-rJ3cvL7pKG5no5CY1da-54" parent="-rJ3cvL7pKG5no5CY1da-3" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Save the request(Status: Pending )" vertex="1">
           <mxGeometry height="60" width="120" x="88.75" y="870" as="geometry" />
         </mxCell>
         <mxCell id="-rJ3cvL7pKG5no5CY1da-64" parent="-rJ3cvL7pKG5no5CY1da-3" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Delete the cancelled request" vertex="1">
